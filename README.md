@@ -22,8 +22,8 @@ A escolha inicial no menu de dificuldade determina a "classe" do personagem, alt
 
 
 ______________________________________________________________________________________________________________
-|  Opção	Nome Interno	Dificuldade	Foco	Vida (vida_pers)	Ataque (atq_pers)	Distância de Ataque (dist_pers) |
-|  1	G	Fácil	Balanceado	               40	              15	          2             (Curta)                 |                                                  
-|  2	A	Médio	Distância	                 30	              10	          5             (Média)                 |
-|  3	M	Inferno	Vidro Canhão	           10	              25	          5             (Média)                 |
+  Opção	Nome Interno	Dificuldade	Foco	Vida (vida_pers)	Ataque (atq_pers)	Distância de Ataque (dist_pers) 
+  1	G	Fácil	Balanceado	40	              15	          2             (Curta)                                                             
+  2	A	Médio	Distância	  30	              10	          5             (Média)                 
+  3	M	Inferno	Vidro Canhão	10	          25	          5             (Média)                 
 _______________________________________________________________________________________________________________
